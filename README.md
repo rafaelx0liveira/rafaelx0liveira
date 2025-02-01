@@ -60,7 +60,7 @@
 ## Contacts : 
 
 <div  align="center"> 
-  <a href="https://www.linkedin.com/in/rafael-oliveira-44351b18a/" target="_blank" rel=noopener>
+  <a href="https://www.linkedin.com/in/rafael-aparecido-silva-oliveira/" target="_blank" rel=noopener>
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
