@@ -72,6 +72,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge"/>
   </a>
   
-  ![Snake animation](https://github.com/R4f43lA94r3c1d0/R4f43lA94r3c1d0/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaelx0liveira/rafaelx0liveira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
