@@ -59,7 +59,7 @@
 **Ciência da Computação** \
 [**PUC-SP**](https://www.pucsp.br/home)
 2020 - 2023 
-
+<br />
 Front-end: `React`, `Next.js`, `Angular`, `Typescript`, `JavaScript`, `Microfrontend`, `Design System`, `React Native`, `Flutter`, `Kotlin`, `Figma`
 Back-end: `C#`, `.NET`, `ASP.NET Core`, `Node.js`, `Express`, `NestJS`, `ORM`, `SQL Server`, `MySQL`, `Redis`, `RabbitMQ`, `gRPC`, `REST`, `GraphQL`, `Java`, `Spring Boot`
 Devops: `Docker`, `Azure`, `Github Actions`, `CI/CD`, `Kubernetes`, `IaC`, `Bluegreen Deployment`, `Canary Deployment`, `Monitoring`, `Logging`, `Application Insights`
