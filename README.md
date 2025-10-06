@@ -58,7 +58,8 @@
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www5.pucsp.br/midias_sociais/opengraph/avatar-opengraph-png24.png"/>](https://www.pucsp.br/home)
 **Ciência da Computação** \
 [**PUC-SP**](https://www.pucsp.br/home)
-2020 - 2023
+2020 - 2023 
+
 Front-end: `React`, `Next.js`, `Angular`, `Typescript`, `JavaScript`, `Microfrontend`, `Design System`, `React Native`, `Flutter`, `Kotlin`, `Figma`
 Back-end: `C#`, `.NET`, `ASP.NET Core`, `Node.js`, `Express`, `NestJS`, `ORM`, `SQL Server`, `MySQL`, `Redis`, `RabbitMQ`, `gRPC`, `REST`, `GraphQL`, `Java`, `Spring Boot`
 Devops: `Docker`, `Azure`, `Github Actions`, `CI/CD`, `Kubernetes`, `IaC`, `Bluegreen Deployment`, `Canary Deployment`, `Monitoring`, `Logging`, `Application Insights`
